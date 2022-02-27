@@ -10,5 +10,5 @@
 <p>
 Criado utilizando as linguagens padrões de devenvolvimento web.
 <br></br>
-Estou programando em front-end para distrair e mudar um pouco meu foco em back-end, além do mais, acaba ajudando a compreender vários aspectos do front-end para futuros projetos.
+Estou programando em front-end para distrair e mudar um pouco meu foco em back-end, além do mais, acaba compreendendo vários aspectos do front-end para futuros projetos.
 </p>
